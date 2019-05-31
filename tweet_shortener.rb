@@ -72,6 +72,7 @@ def shortened_tweet_truncator(tweet)
       finalStr=""
       finalStr=finalStr+c 
       finalStr=finalStr[0..139]
+      finalStr=finalStr+"..."
     end 
   end
 end 
