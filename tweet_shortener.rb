@@ -38,10 +38,10 @@ end
 def bulk_tweet_shortener(tweet)
   
   increment = 0 
-  while (counter < tweet.length)
+  while (increment < tweet.length)
   
   
-  counter = counter + 1 
+  increment = increment + 1 
   end
 end
 
