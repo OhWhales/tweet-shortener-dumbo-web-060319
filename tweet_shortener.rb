@@ -71,6 +71,7 @@ def shortened_tweet_truncator(tweet)
       c=word_substituter(tweet)
       finalStr=""
       finalStr=finalStr+c 
+      
     end 
   end
 end 
