@@ -50,7 +50,7 @@ def bulk_tweet_shortener(tweet)
       counter2=0 
       while (counter2 < key.length)
         q=finalWord[counter]
-        if q.to_s.downcase == key[counter2]
+        if finalWord[counter] == key[counter2]
           z=finalWord[counter]
           finalWord[counter] = dictionary[z]
         end 
