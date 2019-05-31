@@ -64,6 +64,6 @@ def shortened_tweet_truncator(tweet)
     return tweet
   else 
     b=word_substituter(tweet)
-    
+    z=b.split("")
   end
 end 
