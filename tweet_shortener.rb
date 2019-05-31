@@ -25,7 +25,8 @@ def word_substituter(str)
     counter2=0 
     while (counter2 < key.length)
       if finalWord[counter].downcase == key[counter2]
-        finalWord[counter] == dictionary[finalWord[counter]]
+        z=finalWord[counter]
+        finalWord[counter] == dictionary[z]
       end 
       counter2 = counter2 + 1
     end 
