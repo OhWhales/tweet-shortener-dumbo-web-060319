@@ -50,6 +50,7 @@ end
 def selective_tweet_shortener(tweet)
   
   a=tweet.split()
+  puts a
 end 
 
 
