@@ -23,6 +23,6 @@ def word_substituter(str)
   counter = 0 
   while (counter < finalWord.length)
     
-  
+    counter = counter + 1
   end 
 end 
