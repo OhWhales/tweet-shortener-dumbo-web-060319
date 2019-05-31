@@ -69,7 +69,7 @@ def shortened_tweet_truncator(tweet)
       return word_substituter(tweet)
     else 
       c=word_substituter(tweet)
-      
+      finalStr=""
     end 
   end
 end 
