@@ -49,8 +49,7 @@ end
 
 def selective_tweet_shortener(tweet)
   
-  a=tweet.length 
-  puts a
+  puts tweet
 end 
 
 
