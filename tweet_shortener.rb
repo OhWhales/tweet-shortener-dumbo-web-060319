@@ -42,7 +42,7 @@ def bulk_tweet_shortener(tweet)
   increment = 0 
   while (increment < tweet.length)
   
-    finalWord=str.split(" ")
+    finalWord=tweet[increment]
     key = dictionary.keys 
     counter = 0 
     while (counter < finalWord.length)
