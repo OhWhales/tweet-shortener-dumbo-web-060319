@@ -32,4 +32,5 @@ def word_substituter(str)
     end 
     counter = counter + 1
   end 
+  
 end 
