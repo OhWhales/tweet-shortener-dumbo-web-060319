@@ -19,4 +19,10 @@ end
 def word_substituter(str)
   
   finalWord=str.split(" ")
+  
+  counter = 0 
+  while (counter < finalWord.length)
+    
+  
+  end 
 end 
