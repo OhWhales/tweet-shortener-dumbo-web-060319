@@ -15,3 +15,8 @@ change=
   "and" => "&"
 }
 end 
+
+def word_substituter(str)
+  
+  
+end 
