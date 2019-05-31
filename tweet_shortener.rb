@@ -22,7 +22,11 @@ def word_substituter(str)
   key = dictionary.keys 
   counter = 0 
   while (counter < finalWord.length)
-    
+    counter2=0 
+    while (counter2 < key.length)
+     
+      counter2 = counter2 + 1
+    end 
     counter = counter + 1
   end 
 end 
