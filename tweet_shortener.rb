@@ -19,7 +19,7 @@ end
 def word_substituter(str)
   
   finalWord=str.split(" ")
-  
+  key = dictionary.keys 
   counter = 0 
   while (counter < finalWord.length)
     
