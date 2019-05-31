@@ -34,3 +34,9 @@ def word_substituter(str)
   end 
   return finalWord.join(" ")
 end 
+
+
+
+
+
+
