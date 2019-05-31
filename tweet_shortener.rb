@@ -59,5 +59,9 @@ end
 
 
 def shortened_tweet_truncator(tweet)
+  a=tweet.split("")
+  if a.length < 140
+    return tweet
   
+end
 end 
